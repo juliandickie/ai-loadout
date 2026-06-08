@@ -1,0 +1,342 @@
+{
+  "name": "loadout",
+  "owner": {
+    "name": "Julian Dickie",
+    "url": "https://github.com/juliandickie"
+  },
+  "metadata": {
+    "description": "AI Loadout - a growing set of advanced AI marketing, sales, and automation skills and plug-ins for Claude Code. Build your loadout from copywriting, email sequences, social content, AI creative, Google Workspace, and commerce, all driven by natural-language conversation.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ac-builder",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/ac-builder.git"
+      },
+      "description": "Build ActiveCampaign email sequences from markdown via MJML. Skills wrap the bundled ac-builder Python CLI for rendering, validation, V1 campaign creation, V3 click-action wiring, and theme-driven multi-brand workflows.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/ac-builder",
+      "repository": "https://github.com/juliandickie/ac-builder",
+      "license": "MIT",
+      "category": "marketing-automation",
+      "keywords": [
+        "activecampaign",
+        "email",
+        "mjml",
+        "marketing",
+        "automation"
+      ]
+    },
+    {
+      "name": "linkedin-post-studio",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/linkedin-post-studio.git"
+      },
+      "description": "Profile-driven LinkedIn content generation: text posts, carousels, hooks, polls, video scripts, newsletters, calendars, companion comments, QA review, idea mining, and content repurposing.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/linkedin-post-studio",
+      "repository": "https://github.com/juliandickie/linkedin-post-studio",
+      "license": "MIT",
+      "category": "content-creation",
+      "keywords": [
+        "linkedin",
+        "content-marketing",
+        "ghostwriting",
+        "social-media",
+        "carousels"
+      ]
+    },
+    {
+      "name": "creators-studio",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/creators-studio.git"
+      },
+      "description": "AI image and video Creative Director powered by best-in-class models: Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs, Lyria.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/creators-studio",
+      "repository": "https://github.com/juliandickie/creators-studio",
+      "license": "MIT",
+      "category": "creative-tools",
+      "keywords": [
+        "image-generation",
+        "video-generation",
+        "ai-art",
+        "creative-director",
+        "prompt-engineering"
+      ]
+    },
+    {
+      "name": "scribe",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/scribe-plugin.git"
+      },
+      "description": "Google Workspace orchestration for Claude Code. Multi-account access to Gmail, Calendar, Drive, Docs, Sheets, Slides, Contacts, Tasks, Forms, and Chat. Ships 14 cross-service workflow commands plus 10 service skills. Wraps taylorwilsdon/google_workspace_mcp.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/scribe-plugin",
+      "repository": "https://github.com/juliandickie/scribe-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "google",
+        "workspace",
+        "gmail",
+        "calendar",
+        "drive",
+        "docs",
+        "sheets",
+        "slides",
+        "workflows",
+        "automation",
+        "mcp"
+      ]
+    },
+    {
+      "name": "spiffy",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/spiffy-plugin.git"
+      },
+      "description": "Talk to the Spiffy checkout platform from Claude Code. Customer lookup, MRR and affiliate and churn reports, customer notes, and one-off promo code generation. Works with any Spiffy account, just supply your own API key.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/spiffy-plugin",
+      "repository": "https://github.com/juliandickie/spiffy-plugin",
+      "license": "MIT",
+      "category": "marketing-automation",
+      "keywords": [
+        "spiffy",
+        "checkout",
+        "commerce",
+        "crm",
+        "customer-lookup",
+        "reports",
+        "mrr",
+        "affiliate",
+        "promo-codes",
+        "mcp"
+      ]
+    },
+    {
+      "name": "clickup",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/clickup-plugin.git"
+      },
+      "description": "Talk to ClickUp from Claude Code. Token-disciplined task access and first-class bulk operations - deeper API coverage than the stock connector, gated single and bulk writes, and a large-job batch runner. Works with any ClickUp workspace, supply your own pk_ token.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/clickup-plugin",
+      "repository": "https://github.com/juliandickie/clickup-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "clickup",
+        "tasks",
+        "project-management",
+        "bulk",
+        "mcp"
+      ]
+    },
+    {
+      "name": "vimeo",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/vimeo-plugin.git"
+      },
+      "description": "Push Descript exports from Google Drive into the existing Vimeo library. Multi-language captions and subtitles, title and description sync, and a gated destructive source-file replace, driven by a Google Sheet manifest read through the Scribe plugin. Bundles a Node MCP engine wrapping the official vimeo.js library.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/vimeo-plugin",
+      "repository": "https://github.com/juliandickie/vimeo-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "vimeo",
+        "captions",
+        "subtitles",
+        "descript",
+        "google-drive",
+        "mcp",
+        "automation"
+      ]
+    },
+    {
+      "name": "descript",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/descript-plugin.git"
+      },
+      "description": "Full programmatic access to the Descript API - import media, Underlord AI agent edits, publish compositions, inspect jobs, and run bulk video pipelines. Node CLI wrapped by skills and an optional MCP shim. Supply your own Descript API token.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/descript-plugin",
+      "repository": "https://github.com/juliandickie/descript-plugin",
+      "license": "MIT",
+      "category": "creative-tools",
+      "keywords": ["descript", "video", "audio", "transcription", "underlord", "publishing", "automation", "mcp"]
+    },
+    {
+      "name": "stripe",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/stripe-plugin.git"
+      },
+      "description": "Full programmatic access to every Stripe API endpoint the pinned stripe-node SDK exposes, across many accounts (standalone keys and Stripe Connect). Binary-enforced read, mutating, and destructive safety tier with live-mode arming, read-only multi-account fan-out, and the bundled official Stripe CLI for webhooks. Node CLI wrapped by skills with an optional MCP shim. Replaces the single-account Stripe MCP connector. Supply your own Stripe keys.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/stripe-plugin",
+      "repository": "https://github.com/juliandickie/stripe-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["stripe", "payments", "multi-account", "connect", "webhooks", "billing", "mcp"]
+    },
+    {
+      "name": "epub-for-agents",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/epub-for-agents.git"
+      },
+      "description": "Convert EPUBs to YAML-headed Markdown with per-chapter byte and line offsets so agents read books token-efficiently. Independent wrapper around prime-radiant-inc/books-for-bots. Requires the Rust toolchain (cargo).",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/epub-for-agents",
+      "repository": "https://github.com/juliandickie/epub-for-agents",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "epub",
+        "ebook",
+        "books",
+        "markdown",
+        "token-efficiency",
+        "reading"
+      ]
+    },
+    {
+      "name": "wp-index",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/wp-index.git"
+      },
+      "description": "Extract and index any WordPress site through its REST API. Per-item Markdown, CSV, a JSON archive, and a Claude knowledge-base file. Standard-library Python, zero install. Any post type via a flag. Supply your own site URL and optional Application Password.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/wp-index",
+      "repository": "https://github.com/juliandickie/wp-index",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["wordpress", "wp-json", "rest-api", "extract", "index", "archive", "seo", "content-audit"]
+    },
+    {
+      "name": "claude-seo",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/claude-seo.git"
+      },
+      "description": "Comprehensive SEO analysis and on-page optimisation. Local SEO (Google Business Profile, citations, reviews, map pack), technical SEO, Schema.org generation, Core Web Vitals, AI search optimisation, sitemaps, and content quality across 25 sub-skills and 18 sub-agents. Fork of AgriciDaniel/claude-seo.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/claude-seo",
+      "repository": "https://github.com/juliandickie/claude-seo",
+      "license": "MIT",
+      "category": "marketing",
+      "keywords": [
+        "seo",
+        "local-seo",
+        "technical-seo",
+        "schema",
+        "core-web-vitals",
+        "ai-search",
+        "content-audit"
+      ]
+    },
+    {
+      "name": "claude-blog",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/claude-blog.git"
+      },
+      "description": "Full-lifecycle blog content engine. Strategy, briefs, SERP-informed outlines, writing, and 100-point quality scoring, dual-optimised for Google rankings and AI citations (GEO). Native output for Astro and WordPress, per-client brand and voice profiles, 12 content templates, and 30 sub-skills. Fork of AgriciDaniel/claude-blog.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/claude-blog",
+      "repository": "https://github.com/juliandickie/claude-blog",
+      "license": "MIT",
+      "category": "content-creation",
+      "keywords": [
+        "blog",
+        "content-marketing",
+        "seo",
+        "geo",
+        "ai-citations",
+        "editorial",
+        "wordpress",
+        "astro"
+      ]
+    },
+    {
+      "name": "pro-marketing-ads",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/pro-marketing-ads.git"
+      },
+      "description": "Paid advertising audit and AI ad creative generation - 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, and Amazon Ads with weighted scoring, 12 industry templates, PPC math, A/B test design, and PDF reports. Ad image generation is handed to the creators-studio plugin (required). Fork of AgriciDaniel/claude-ads.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/pro-marketing-ads",
+      "repository": "https://github.com/juliandickie/pro-marketing-ads",
+      "license": "MIT",
+      "category": "marketing",
+      "keywords": [
+        "paid-advertising",
+        "advertising-audit",
+        "google-ads",
+        "meta-ads",
+        "ppc",
+        "ad-creative",
+        "creators-studio"
+      ]
+    }
+  ]
+}
