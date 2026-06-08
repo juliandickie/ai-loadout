@@ -1,6 +1,6 @@
 # AI Loadout
 
-![AI Loadout - equip Claude Code with the right plug-ins for the mission](assets/hero.png)
+![AI Loadout - equip Claude Code with the right plug-ins for the mission](assets/hero.webp)
 
 **Gear up Claude Code for the work you actually do.**
 
@@ -14,7 +14,7 @@ Pick the mission. Equip the plug-ins it needs. Ship like you brought a team of s
 
 This is a marketplace catalog repo. The actual plugins live in their own repos and are referenced via `marketplace.json`. Adding this one marketplace gives you all of them.
 
-![The AI Loadout kit](assets/kit.jpg)
+![The AI Loadout kit](assets/kit.webp)
 
 | Plugin | Description |
 |---|---|
@@ -59,7 +59,7 @@ For example:
 
 Each plugin has its own setup (some need OAuth or an API key). Follow the install prompts or the plugin's own README.
 
-![Gear up and ship the mission](assets/command.jpg)
+![Gear up and ship the mission](assets/command.webp)
 
 ## Author
 
