@@ -337,6 +337,31 @@
         "ad-creative",
         "creators-studio"
       ]
+    },
+    {
+      "name": "humanise-copy",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/humanise-copy.git"
+      },
+      "description": "Voice-preserving removal of the tell-tale signs of AI generation in written content. Two-tier detection (trigger phrases plus structural and rhythmic patterns), a zero-dependency Python detector with borderline warnings, a whitelist for brand signature phrases and deliberate technique, a read-aloud naturalness pass, and a ship or do-not-ship verdict gate.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/humanise-copy",
+      "repository": "https://github.com/juliandickie/humanise-copy",
+      "license": "MIT",
+      "category": "content-creation",
+      "keywords": [
+        "humanise",
+        "humanize",
+        "ai-detection",
+        "ai-slop",
+        "copy-editing",
+        "naturalness",
+        "brand-voice"
+      ]
     }
   ]
 }
