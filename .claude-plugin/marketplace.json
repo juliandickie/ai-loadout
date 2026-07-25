@@ -344,7 +344,7 @@
         "source": "url",
         "url": "https://github.com/juliandickie/humanise-copy.git"
       },
-      "description": "Voice-preserving removal of the tell-tale signs of AI generation in written content. Two-tier detection (trigger phrases plus structural and rhythmic patterns), a zero-dependency Python detector with borderline warnings, a whitelist for brand signature phrases and deliberate technique, a read-aloud naturalness pass, and a ship or do-not-ship verdict gate.",
+      "description": "Voice-preserving removal of the tell-tale signs of AI generation in written content. Two-tier detection (trigger phrases plus structural and rhythmic patterns), a zero-dependency Python detector with borderline warnings, a whitelist for brand signature phrases and deliberate technique, checks for the damage a repair pass itself introduces (telegraphese, converged tics, chop, orphaned pronouns), a read-aloud naturalness pass, and a ship or do-not-ship verdict gate. Structure that is search and answer-engine optimisation is routed to claude-seo rather than repaired.",
       "author": {
         "name": "Julian Dickie",
         "url": "https://github.com/juliandickie"
