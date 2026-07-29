@@ -362,6 +362,80 @@
         "naturalness",
         "brand-voice"
       ]
+    },
+    {
+      "name": "impeccable",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/pbakaus/impeccable.git"
+      },
+      "description": "Design fluency for frontend development. One skill with 23 commands (/impeccable polish, audit, critique, distill, animate, bolder, quieter, and more), driven by a PRODUCT.md and DESIGN.md context flow and curated anti-pattern knowledge distilled from 60 deterministic detector rules. Third-party plugin by Paul Bakaus. Installing from the repo gives the skill form without hooks; the hook-driven detector, CLI, and browser extension live upstream at impeccable.style.",
+      "author": {
+        "name": "Paul Bakaus",
+        "email": "paul@paulbakaus.com"
+      },
+      "homepage": "https://impeccable.style",
+      "repository": "https://github.com/pbakaus/impeccable",
+      "license": "Apache-2.0",
+      "category": "design",
+      "keywords": [
+        "design",
+        "frontend",
+        "ui",
+        "ux",
+        "anti-patterns",
+        "skills",
+        "commands"
+      ]
+    },
+    {
+      "name": "no-ai-slop",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/no-ai-slop.git"
+      },
+      "description": "Remove 20+ patterns of AI slop from any piece of writing without flattening the writer's voice - binary contrasts, throat-clearing openers, colon reveals, importance puffery, weasel attribution, synonym cycling, and more - or detect slop patterns without rewriting. Fork of petergyang/no-ai-slop packaged as a Claude Code plugin, tracking upstream. Complements humanise-copy, which adds structural and rhythmic detection, repair-damage checks, and a ship or do-not-ship gate.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/no-ai-slop",
+      "repository": "https://github.com/juliandickie/no-ai-slop",
+      "license": "MIT",
+      "category": "content-creation",
+      "keywords": [
+        "writing",
+        "editing",
+        "voice",
+        "ai-slop",
+        "slop-detection"
+      ]
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git"
+      },
+      "description": "UI/UX design intelligence. Searchable offline database of 84 UI styles, 192 colour palettes, 74 font pairings, 25 chart types, and UX guidelines across 22 stacks (React, Next.js, Astro, Vue, Svelte, SwiftUI, Flutter, Tailwind, shadcn/ui, Jetpack Compose, and more), plus companion skills for brand, design systems, slides, banner design, and UI styling. Third-party plugin by Next Level Builder. Fully offline core.",
+      "author": {
+        "name": "Next Level Builder",
+        "url": "https://github.com/nextlevelbuilder"
+      },
+      "homepage": "https://uupm.cc",
+      "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "license": "MIT",
+      "category": "design",
+      "keywords": [
+        "ui",
+        "ux",
+        "design",
+        "styles",
+        "typography",
+        "color-palette",
+        "accessibility",
+        "charts"
+      ]
     }
   ]
 }
