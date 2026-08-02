@@ -417,7 +417,7 @@
         "source": "url",
         "url": "https://github.com/juliandickie/power-design.git"
       },
-      "description": "Decks and websites that do not look AI-made. Brand DNA extracted live from any URL via Firecrawl or picked from 72+ pre-built brand systems, combined with codified design principles - 20 research-backed rules for slides and 20 for the web, each with numeric thresholds. Fork of ItsssssJack/power-design packaged as a Claude Code plugin, tracking upstream.",
+      "description": "Decks and websites that do not look AI-made. Brand DNA extracted live from any URL via Firecrawl or picked from 74 pre-built brand systems, combined with codified design principles - 20 research-backed rules for slides and 20 for the web, each with numeric thresholds. Fork of ItsssssJack/power-design packaged as a Claude Code plugin, tracking upstream. The fork adds a house style guard on generated copy, motion routed to GSAP and The Motion Index, a stated positioning boundary against overlapping design skills, and a spec-ordered brand file schema whose design tokens actually resolve.",
       "author": {
         "name": "Julian Dickie",
         "url": "https://github.com/juliandickie"
