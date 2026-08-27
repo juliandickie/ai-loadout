@@ -191,7 +191,7 @@
         "source": "url",
         "url": "https://github.com/juliandickie/descript-plugin.git"
       },
-      "description": "Full programmatic access to the Descript API - import media, Underlord AI agent edits, publish compositions, inspect jobs, and run bulk video pipelines. Node CLI wrapped by skills and an optional MCP shim. Supply your own Descript API token.",
+      "description": "Full programmatic access to the Descript API - import media, Underlord AI agent edits, free synchronous transcript export in six formats, live model catalog, publish compositions, inspect jobs, and run bulk video pipelines. Node CLI wrapped by skills and an optional MCP shim. Supply your own Descript API token.",
       "author": {
         "name": "Julian Dickie",
         "email": "julian@instituteofdigitaldentistry.com",
