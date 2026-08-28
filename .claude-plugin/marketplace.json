@@ -166,7 +166,7 @@
         "source": "url",
         "url": "https://github.com/juliandickie/vimeo-plugin.git"
       },
-      "description": "Push Descript exports from Google Drive into the existing Vimeo library. Multi-language captions and subtitles, title and description sync, brand new video uploads with folder placement, and a gated destructive source-file replace, driven by a Google Sheet manifest read through the Scribe plugin. Bundles a Node MCP engine wrapping the official vimeo.js library.",
+      "description": "Push Descript exports from Google Drive into the existing Vimeo library. Multi-language captions and subtitles, title and description sync, brand new video uploads with folder placement, and a gated destructive source-file replace, driven by a Google Sheet manifest read through the Scribe plugin. Bundles a Node MCP engine wrapping the official vimeo.js library. The Vimeo token can come from the config field, a 1Password secret reference (op CLI), or a chmod-600 config file.",
       "author": {
         "name": "Julian Dickie",
         "url": "https://github.com/juliandickie"
