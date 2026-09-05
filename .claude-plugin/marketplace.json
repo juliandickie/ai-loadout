@@ -478,6 +478,32 @@
       "license": "MIT",
       "category": "marketing",
       "keywords": ["google-ads", "ppc", "performance-max", "merchant-center", "audit"]
+    },
+    {
+      "name": "modern-web-guidance",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GoogleChrome/modern-web-guidance.git"
+      },
+      "description": "Modern web platform guidance for coding agents from the Chrome and Edge teams - 132 use-case guides across CSS, forms, performance, UI behaviours, visual design, accessibility, passkeys and security headers, built-in AI and WebMCP, each with Baseline browser-support data and a fallback strategy, plus a Chrome extensions skill (Manifest V3 and Web Store publishing). Third-party plugin by Google Chrome, Apache-2.0. The skill retrieves guides through the modern-web-guidance npm CLI at runtime (npx, local semantic search); set DISABLE_TELEMETRY=1 in your environment to opt out of Google usage telemetry.",
+      "author": {
+        "name": "Google Chrome",
+        "url": "https://github.com/GoogleChrome"
+      },
+      "homepage": "https://github.com/GoogleChrome/modern-web-guidance",
+      "repository": "https://github.com/GoogleChrome/modern-web-guidance",
+      "license": "Apache-2.0",
+      "category": "web-development",
+      "keywords": [
+        "web-platform",
+        "css",
+        "performance",
+        "accessibility",
+        "baseline",
+        "browser-support",
+        "view-transitions",
+        "chrome-extensions"
+      ]
     }
   ]
 }
