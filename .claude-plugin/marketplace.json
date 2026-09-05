@@ -460,6 +460,24 @@
         "accessibility",
         "charts"
       ]
+    },
+    {
+      "name": "google-ads-playbook",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/google-ads-playbook.git"
+      },
+      "description": "Audit and rebuild a Google Ads account with the $100M GADs playbook. Read-only: scripts compute leakage, misallocation, feed scores, and the 7/14/30-day scaling gate; skills orchestrate; Google's official MCP answers live questions.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/google-ads-playbook",
+      "repository": "https://github.com/juliandickie/google-ads-playbook",
+      "license": "MIT",
+      "category": "marketing",
+      "keywords": ["google-ads", "ppc", "performance-max", "merchant-center", "audit"]
     }
   ]
 }

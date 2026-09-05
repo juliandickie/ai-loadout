@@ -37,6 +37,7 @@ This is a marketplace catalog repo. The actual plugins live in their own repos a
 | [no-ai-slop](https://github.com/juliandickie/no-ai-slop) | Remove 20+ patterns of AI slop from writing without flattening the writer's voice - binary contrasts, throat-clearing openers, colon reveals, importance puffery, weasel attribution, and more - or detect slop without rewriting. Fork of petergyang/no-ai-slop packaged as a Claude Code plugin, tracking upstream. Complements humanise-copy. |
 | [power-design](https://github.com/juliandickie/power-design) | Decks and websites that do not look AI-made - Brand DNA (live URL extraction via Firecrawl or 72+ pre-built brand systems) combined with 20 research-backed slide rules and 20 web rules, each with numeric thresholds. Fork of ItsssssJack/power-design packaged as a Claude Code plugin, tracking upstream. |
 | [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | UI/UX design intelligence - searchable offline database of 84 UI styles, 192 colour palettes, 74 font pairings, 25 chart types, and UX guidelines across 22 stacks, plus companion skills for brand, design systems, slides, banner design, and UI styling. Third-party by Next Level Builder. |
+| [google-ads-playbook](https://github.com/juliandickie/google-ads-playbook) | Audit and rebuild a Google Ads account with the $100M GADs playbook. Read-only scripts compute leakage, misallocation, feed scores, and the 7/14/30-day scaling gate; skills orchestrate; Google's official MCP answers live questions. |
 
 ## Install
 
