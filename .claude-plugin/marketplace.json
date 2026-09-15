@@ -613,6 +613,33 @@
         "mcp",
         "cli"
       ]
+    },
+    {
+      "name": "rocket-net",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/rocket-net-plugin.git"
+      },
+      "description": "Manage Rocket.net WordPress hosting - site lifecycle, staging and deploys, WP-CLI passthrough, backups, cache and CDN, domains and SSL, users and access, plugins and themes, reporting and WAF. Rocket.net's hosted MCP bundled for conversational one-offs, plus a zero-dependency Python CLI that reaches all 198 API operations with async task polling for scripted, bulk and unattended work. 12 skills and 5 commands encode safe workflows, with a --yes guard on every destructive operation. Supply your own Rocket.net login.",
+      "author": {
+        "name": "Julian Dickie",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/rocket-net-plugin",
+      "repository": "https://github.com/juliandickie/rocket-net-plugin",
+      "license": "MIT",
+      "category": "web-development",
+      "keywords": [
+        "rocket.net",
+        "wordpress",
+        "hosting",
+        "wp-cli",
+        "staging",
+        "deployment",
+        "backups",
+        "mcp",
+        "cli"
+      ]
     }
   ]
 }
