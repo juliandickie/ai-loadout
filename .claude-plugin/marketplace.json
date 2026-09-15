@@ -586,6 +586,33 @@
         "copywriting",
         "cli"
       ]
+    },
+    {
+      "name": "heyzine",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/heyzine-plugin.git"
+      },
+      "description": "Publish PDFs (and Word, PowerPoint, OpenDocument, RTF) as Heyzine flipbooks and carry them to where they are used - lead magnet share kits with embed code and a short link, LearnDash course material snippets, bookshelves, and password or per-user access lists. Ships the heyzine CLI (REST, JSON, unattended) plus an MCP bridge to Heyzine's hosted server, sharing one key resolver - config field, chmod-600 config file, 1Password secret reference, or OAuth. Keeps the register of what was published inside Heyzine as tags and a private note, with inventory and reconcile commands.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/heyzine-plugin",
+      "repository": "https://github.com/juliandickie/heyzine-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "heyzine",
+        "flipbook",
+        "pdf",
+        "lead-magnet",
+        "learndash",
+        "bookshelf",
+        "mcp",
+        "cli"
+      ]
     }
   ]
 }
