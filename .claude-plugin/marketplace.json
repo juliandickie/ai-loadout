@@ -640,6 +640,30 @@
         "mcp",
         "cli"
       ]
+    },
+    {
+      "name": "short-io",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/short-io-plugin.git"
+      },
+      "description": "Short.io link management under your own API key. An MCP bridge to Short.io's hosted server (14 tools - create, edit, search, statistics, and a generic REST caller) with one key resolver - plugin config field, SHORT_IO_API_KEY, chmod-600 config file, or 1Password secret reference - plus a short-io CLI that lists every link on a domain to the true total, checks what a slug really points at (configured destination, live hop, and whether the domain has a 404 or a silent fallback), bulk-creates from CSV or JSON with a dry run and duplicate detection by slug and by destination, and deletes with read-back. Seven skills.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/short-io-plugin",
+      "repository": "https://github.com/juliandickie/short-io-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "short.io",
+        "short-links",
+        "url-shortener",
+        "utm",
+        "link-management"
+      ]
     }
   ]
 }
