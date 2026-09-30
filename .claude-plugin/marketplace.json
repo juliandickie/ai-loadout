@@ -664,6 +664,99 @@
         "utm",
         "link-management"
       ]
+    },
+    {
+      "name": "caveman",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JuliusBrussee/caveman.git"
+      },
+      "description": "Ultra-compressed communication mode for coding agents - cuts filler and shortens prose while keeping technical terms, code, commands and exact errors intact, to save output tokens. Installs SessionStart and prompt-tracking hooks. Third-party by Julius Brussee. Mixed licence - MIT for the repository, Business Source License 1.1 for the engine-linked directories (proxy, rewriter and similar), see the repo's LICENSING.md.",
+      "author": {
+        "name": "Julius Brussee",
+        "url": "https://github.com/JuliusBrussee"
+      },
+      "homepage": "https://github.com/JuliusBrussee/caveman",
+      "repository": "https://github.com/JuliusBrussee/caveman",
+      "license": "MIT (engine directories BUSL-1.1)",
+      "category": "productivity",
+      "keywords": [
+        "tokens",
+        "compression",
+        "communication",
+        "productivity",
+        "terse"
+      ]
+    },
+    {
+      "name": "ponytail",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/DietrichGebert/ponytail.git"
+      },
+      "description": "Lazy senior dev mode - pushes the agent to the simplest, shortest solution that works: YAGNI, standard library first, no unrequested abstractions, one line over fifty. Installs session hooks. Third-party by Dietrich Gebert.",
+      "author": {
+        "name": "Dietrich Gebert",
+        "url": "https://github.com/DietrichGebert"
+      },
+      "homepage": "https://github.com/DietrichGebert/ponytail",
+      "repository": "https://github.com/DietrichGebert/ponytail",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "yagni",
+        "simplicity",
+        "minimal-code",
+        "code-quality",
+        "productivity"
+      ]
+    },
+    {
+      "name": "agent-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/addyosmani/agent-skills.git"
+      },
+      "description": "Production-grade engineering skills for AI coding agents covering the full software development lifecycle - spec, plan, build, test, review and ship - with slash commands. Third-party by Addy Osmani.",
+      "author": {
+        "name": "Addy Osmani",
+        "url": "https://github.com/addyosmani"
+      },
+      "homepage": "https://github.com/addyosmani/agent-skills",
+      "repository": "https://github.com/addyosmani/agent-skills",
+      "license": "MIT",
+      "category": "web-development",
+      "keywords": [
+        "skills",
+        "engineering",
+        "spec",
+        "tdd",
+        "review",
+        "ship"
+      ]
+    },
+    {
+      "name": "understand-anything",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Egonex-AI/Understand-Anything.git"
+      },
+      "description": "Turn any codebase into an interactive knowledge graph you can explore, search and query - LLM-powered analysis with guided tours, an architecture dashboard and deep-dive explanations for onboarding. Third-party by Egonex.",
+      "author": {
+        "name": "Egonex",
+        "url": "https://github.com/Egonex-AI"
+      },
+      "homepage": "https://github.com/Egonex-AI/Understand-Anything",
+      "repository": "https://github.com/Egonex-AI/Understand-Anything",
+      "license": "MIT",
+      "category": "web-development",
+      "keywords": [
+        "codebase-analysis",
+        "knowledge-graph",
+        "architecture",
+        "onboarding",
+        "dashboard"
+      ]
     }
   ]
 }
