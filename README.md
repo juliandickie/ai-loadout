@@ -46,6 +46,14 @@ This is a marketplace catalog repo. The actual plugins live in their own repos a
 | [ponytail](https://github.com/DietrichGebert/ponytail) | Lazy senior dev mode - pushes the agent to the simplest, shortest solution that works: YAGNI, standard library first, no unrequested abstractions, one line over fifty. Installs session hooks. Third-party by Dietrich Gebert. |
 | [agent-skills](https://github.com/addyosmani/agent-skills) | Production-grade engineering skills for AI coding agents covering the full software development lifecycle - spec, plan, build, test, review and ship - with slash commands. Third-party by Addy Osmani. |
 | [understand-anything](https://github.com/Egonex-AI/Understand-Anything) | Turn any codebase into an interactive knowledge graph you can explore, search and query - LLM-powered analysis with guided tours, an architecture dashboard and deep-dive explanations for onboarding. Third-party by Egonex. |
+| [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | Multi-agent orchestration system for Claude Code Third-party plugin by Yeachan Heo. |
+| [icons](https://github.com/FortAwesome/fontawesome-agent-tools) | Integrate Font Awesome's icons into your project. Third-party plugin by The Font Awesome Team. |
+| [obsidian](https://github.com/kepano/obsidian-skills) | Create and edit Obsidian vault files including Markdown, Bases, and Canvas. Use when working with .md, .base, or .canvas files in an Obsidian vault. |
+| [anti-slop](https://github.com/AgriciDaniel/anti-slop) | Detect and repair AI slop in prose, code, documentation, commits and agent output. Reports defects, never authorship. Runs deterministic scanners for vendor residue... |
+| [watch](https://github.com/bradautomates/claude-video) | Let Claude watch a video. Downloads with yt-dlp, extracts auto-scaled frames with ffmpeg, pulls captions or falls back to Whisper, and hands frames + transcript to... |
+| [typesafe](https://github.com/typesafe-ai/skills) | Agent skills for building with the TypeSafe System One API. Third-party plugin by TypeSafe AI. |
+| [brag](https://github.com/latent-spaces/brag) | Turn the current project into a short, polished, shareable launch video using HyperFrames. Third-party plugin by Shunit Haviv Hakimi. |
+| [cloudflare](https://github.com/cloudflare/skills) | Build, test, and deploy applications on Cloudflare with platform guidance Skills and the Cloudflare MCP server. Third-party plugin by Cloudflare. |
 
 ## Install
 

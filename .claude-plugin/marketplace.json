@@ -706,6 +706,118 @@
         "onboarding",
         "dashboard"
       ]
+    },
+    {
+      "name": "oh-my-claudecode",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Yeachan-Heo/oh-my-claudecode.git"
+      },
+      "description": "Multi-agent orchestration system for Claude Code Third-party plugin by Yeachan Heo.",
+      "author": {
+        "name": "Yeachan Heo",
+        "url": "https://github.com/Yeachan-Heo"
+      },
+      "homepage": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+      "license": "MIT"
+    },
+    {
+      "name": "icons",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/FortAwesome/fontawesome-agent-tools.git",
+        "path": "plugins/icons"
+      },
+      "description": "Integrate Font Awesome's icons into your project. Third-party plugin by The Font Awesome Team.",
+      "author": {
+        "name": "The Font Awesome Team",
+        "email": "hello@fontawesome.com"
+      },
+      "homepage": "https://fontawesome.com"
+    },
+    {
+      "name": "obsidian",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kepano/obsidian-skills.git"
+      },
+      "description": "Create and edit Obsidian vault files including Markdown, Bases, and Canvas. Use when working with .md, .base, or .canvas files in an Obsidian vault. Third-party plugin by Steph Ango.",
+      "author": {
+        "name": "Steph Ango",
+        "url": "https://stephango.com/"
+      },
+      "license": "MIT"
+    },
+    {
+      "name": "anti-slop",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/AgriciDaniel/anti-slop.git",
+        "path": "anti-slop-plugin",
+        "ref": "main"
+      },
+      "description": "Detect and repair AI slop in prose, code, documentation, commits and agent output. Reports defects, never authorship. Runs deterministic scanners for vendor residue, placeholders, citations and packages, then structural procedures (deletion, inversion, stranger, attribution, load-bearing) that each emit a verifiable artifact. Third-party plugin by Daniel Agrici.",
+      "author": {
+        "name": "Daniel Agrici",
+        "url": "https://github.com/AgriciDaniel"
+      },
+      "homepage": "https://github.com/AgriciDaniel/anti-slop"
+    },
+    {
+      "name": "watch",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bradautomates/claude-video.git"
+      },
+      "description": "Let Claude watch a video. Downloads with yt-dlp, extracts auto-scaled frames with ffmpeg, pulls captions or falls back to Whisper, and hands frames + transcript to Claude so it can answer questions about the video. Third-party plugin by Bradley Bonanno.",
+      "author": {
+        "name": "Bradley Bonanno"
+      },
+      "homepage": "https://github.com/bradautomates/claude-video",
+      "license": "MIT"
+    },
+    {
+      "name": "typesafe",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/typesafe-ai/skills.git"
+      },
+      "description": "Agent skills for building with the TypeSafe System One API. Third-party plugin by TypeSafe AI.",
+      "author": {
+        "name": "TypeSafe AI",
+        "url": "https://typesafe.ai"
+      },
+      "homepage": "https://typesafe.ai",
+      "license": "MIT"
+    },
+    {
+      "name": "brag",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/latent-spaces/brag.git"
+      },
+      "description": "Turn the current project into a short, polished, shareable launch video using HyperFrames. Third-party plugin by Shunit Haviv Hakimi.",
+      "author": {
+        "name": "Shunit Haviv Hakimi",
+        "email": "shunithaviv@gmail.com"
+      },
+      "homepage": "https://github.com/latent-spaces/brag",
+      "license": "MIT"
+    },
+    {
+      "name": "cloudflare",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/cloudflare/skills.git"
+      },
+      "description": "Build, test, and deploy applications on Cloudflare with platform guidance Skills and the Cloudflare MCP server. Third-party plugin by Cloudflare.",
+      "author": {
+        "name": "Cloudflare",
+        "email": "support@cloudflare.com",
+        "url": "https://www.cloudflare.com/"
+      },
+      "homepage": "https://developers.cloudflare.com/",
+      "license": "Apache-2.0"
     }
   ]
 }
