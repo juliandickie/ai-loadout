@@ -289,57 +289,6 @@
       ]
     },
     {
-      "name": "claude-seo",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/juliandickie/claude-seo.git"
-      },
-      "description": "Comprehensive SEO analysis and on-page optimisation. Local SEO (Google Business Profile, citations, reviews, map pack), technical SEO, Schema.org generation, Core Web Vitals, AI search optimisation, sitemaps, and content quality across 25 sub-skills and 18 sub-agents. Fork of AgriciDaniel/claude-seo.",
-      "author": {
-        "name": "Julian Dickie",
-        "url": "https://github.com/juliandickie"
-      },
-      "homepage": "https://github.com/juliandickie/claude-seo",
-      "repository": "https://github.com/juliandickie/claude-seo",
-      "license": "MIT",
-      "category": "marketing",
-      "keywords": [
-        "seo",
-        "local-seo",
-        "technical-seo",
-        "schema",
-        "core-web-vitals",
-        "ai-search",
-        "content-audit"
-      ]
-    },
-    {
-      "name": "claude-blog",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/juliandickie/claude-blog.git"
-      },
-      "description": "Full-lifecycle blog content engine. Strategy, briefs, SERP-informed outlines, writing, and 100-point quality scoring, dual-optimised for Google rankings and AI citations (GEO). Native output for Astro and WordPress, per-client brand and voice profiles, 12 content templates, and 30 sub-skills. Fork of AgriciDaniel/claude-blog.",
-      "author": {
-        "name": "Julian Dickie",
-        "url": "https://github.com/juliandickie"
-      },
-      "homepage": "https://github.com/juliandickie/claude-blog",
-      "repository": "https://github.com/juliandickie/claude-blog",
-      "license": "MIT",
-      "category": "content-creation",
-      "keywords": [
-        "blog",
-        "content-marketing",
-        "seo",
-        "geo",
-        "ai-citations",
-        "editorial",
-        "wordpress",
-        "astro"
-      ]
-    },
-    {
       "name": "pro-marketing-ads",
       "source": {
         "source": "url",
