@@ -289,31 +289,6 @@
       ]
     },
     {
-      "name": "pro-marketing-ads",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/juliandickie/pro-marketing-ads.git"
-      },
-      "description": "Paid advertising audit and AI ad creative generation - 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, and Amazon Ads with weighted scoring, 12 industry templates, PPC math, A/B test design, and PDF reports. Ad image generation is handed to the creators-studio plugin (required). Fork of AgriciDaniel/claude-ads.",
-      "author": {
-        "name": "Julian Dickie",
-        "url": "https://github.com/juliandickie"
-      },
-      "homepage": "https://github.com/juliandickie/pro-marketing-ads",
-      "repository": "https://github.com/juliandickie/pro-marketing-ads",
-      "license": "MIT",
-      "category": "marketing",
-      "keywords": [
-        "paid-advertising",
-        "advertising-audit",
-        "google-ads",
-        "meta-ads",
-        "ppc",
-        "ad-creative",
-        "creators-studio"
-      ]
-    },
-    {
       "name": "humanise-copy",
       "source": {
         "source": "url",
