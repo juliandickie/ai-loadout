@@ -63,7 +63,7 @@
         "source": "url",
         "url": "https://github.com/juliandickie/creators-studio.git"
       },
-      "description": "AI image and video Creative Director powered by best-in-class models: Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs, Lyria.",
+      "description": "AI image, video, audio and transcript Creative Director powered by Gemini Nano Banana, Kling v3, VEO 3.1, ElevenLabs and Lyria. Also makes music and sound effects, transcribes, and watches any video file or link.",
       "author": {
         "name": "Julian Dickie",
         "url": "https://github.com/juliandickie"
@@ -289,31 +289,6 @@
       ]
     },
     {
-      "name": "humanise-copy",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/juliandickie/humanise-copy.git"
-      },
-      "description": "Voice-preserving removal of the tell-tale signs of AI generation in written content. Two-tier detection (trigger phrases plus structural and rhythmic patterns), a zero-dependency Python detector with borderline warnings, a whitelist for brand signature phrases and deliberate technique, checks for the damage a repair pass itself introduces (telegraphese, converged tics, chop, orphaned pronouns), a read-aloud naturalness pass, and a ship or do-not-ship verdict gate. Structure that is search and answer-engine optimisation is routed to claude-seo rather than repaired.",
-      "author": {
-        "name": "Julian Dickie",
-        "url": "https://github.com/juliandickie"
-      },
-      "homepage": "https://github.com/juliandickie/humanise-copy",
-      "repository": "https://github.com/juliandickie/humanise-copy",
-      "license": "MIT",
-      "category": "content-creation",
-      "keywords": [
-        "humanise",
-        "humanize",
-        "ai-detection",
-        "ai-slop",
-        "copy-editing",
-        "naturalness",
-        "brand-voice"
-      ]
-    },
-    {
       "name": "impeccable",
       "source": {
         "source": "url",
@@ -344,7 +319,7 @@
         "source": "url",
         "url": "https://github.com/juliandickie/no-ai-slop.git"
       },
-      "description": "Remove 20+ patterns of AI slop from any piece of writing without flattening the writer's voice - binary contrasts, throat-clearing openers, colon reveals, importance puffery, weasel attribution, synonym cycling, and more - or detect slop patterns without rewriting. Fork of petergyang/no-ai-slop packaged as a Claude Code plugin, tracking upstream. Complements humanise-copy, which adds structural and rhythmic detection, repair-damage checks, and a ship or do-not-ship gate.",
+      "description": "Remove 20+ patterns of AI slop from any piece of writing without flattening the writer's voice - binary contrasts, throat-clearing openers, colon reveals, importance puffery, weasel attribution, synonym cycling, and more - or detect slop patterns without rewriting. Fork of petergyang/no-ai-slop packaged as a Claude Code plugin, tracking upstream.",
       "author": {
         "name": "Julian Dickie",
         "url": "https://github.com/juliandickie"
@@ -737,19 +712,6 @@
         "url": "https://github.com/AgriciDaniel"
       },
       "homepage": "https://github.com/AgriciDaniel/anti-slop"
-    },
-    {
-      "name": "watch",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/bradautomates/claude-video.git"
-      },
-      "description": "Let Claude watch a video. Downloads with yt-dlp, extracts auto-scaled frames with ffmpeg, pulls captions or falls back to Whisper, and hands frames + transcript to Claude so it can answer questions about the video. Third-party plugin by Bradley Bonanno.",
-      "author": {
-        "name": "Bradley Bonanno"
-      },
-      "homepage": "https://github.com/bradautomates/claude-video",
-      "license": "MIT"
     },
     {
       "name": "typesafe",
