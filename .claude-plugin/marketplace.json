@@ -565,6 +565,32 @@
       ]
     },
     {
+      "name": "slide-handouts",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juliandickie/slide-handouts-plugin.git"
+      },
+      "description": "Turn slide handouts into bigger, easier-to-read printable pages with room for notes. Activates for: (1) slide handouts and printable slides with notes, from a PowerPoint handout PDF, a slide deck PDF, or a PowerPoint, Keynote or Google Slides file, (2) bigger slides or a different number of slides per page, (3) note-taking lines, a dot grid, blank space or fillable notes boxes beside or under each slide, (4) saving and reusing a usual handout layout.",
+      "author": {
+        "name": "Julian Dickie",
+        "email": "julian@instituteofdigitaldentistry.com",
+        "url": "https://github.com/juliandickie"
+      },
+      "homepage": "https://github.com/juliandickie/slide-handouts-plugin",
+      "repository": "https://github.com/juliandickie/slide-handouts-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "slides",
+        "handouts",
+        "pdf",
+        "powerpoint",
+        "keynote",
+        "notes",
+        "printable"
+      ]
+    },
+    {
       "name": "caveman",
       "source": {
         "source": "url",
